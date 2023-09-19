@@ -1,0 +1,7 @@
+#!/bin/bash
+echo 'Push site'
+jekyll b
+rm -rf /Server/Hugo/jafe.xoxo/*
+cp -r _site/* /Server/Hugo/jafe.xoxo/
+git-push
+echo 'done'
