@@ -1,5 +1,0 @@
-#!/bin/bash
-echo 'Push Start..'
-hugo -D
-cp -r public/* /Server/Hugo/jafe.xoxo/
-echo 'done.'
