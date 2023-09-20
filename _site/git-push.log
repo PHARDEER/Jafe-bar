@@ -79,3 +79,57 @@
  create mode 100644 listview.png
  create mode 100644 package-lock.json
  create mode 100644 package.json
+[master fcde3e3] Update
+ 53 files changed, 12543 insertions(+)
+ create mode 100644 Gemfile.lock
+ create mode 100644 _site/2014/02/14/how-to-use-facebook-page-albums-as-image-source-in-django.html
+ create mode 100644 _site/2014/02/14/migrating-to-octopress.html
+ create mode 100644 _site/2014/02/26/simple-state-machine-framework-in-c-number.html
+ create mode 100644 _site/2014/05/01/the-pragmatic-programmer-checklist.html
+ create mode 100644 _site/2014/06/12/On-Using-What-You-Already-Have.html
+ create mode 100644 _site/CNAME
+ create mode 100644 _site/FontAwesome.otf
+ create mode 100644 _site/Gemfile
+ create mode 100644 _site/Gemfile.lock
+ create mode 100644 _site/LICENSE
+ create mode 100644 _site/README.md
+ create mode 100644 _site/about.html
+ create mode 100644 _site/about.png
+ create mode 100644 _site/articles/2017/02/23/How-to-get-readonly-mode-in-django.html
+ create mode 100755 _site/css/AvenirLTStd-Book.otf
+ create mode 100644 _site/css/base.css
+ create mode 100644 _site/css/browserconfig.xml
+ create mode 100644 _site/css/font-awesome.css
+ create mode 100644 _site/css/font-awesome.min.css
+ create mode 100644 _site/css/main.min.css
+ create mode 100644 _site/css/main.min.rtl.css
+ create mode 100644 _site/css/manifest.json
+ create mode 100755 _site/css/octicons-local.ttf
+ create mode 100755 _site/css/octicons.css
+ create mode 100755 _site/css/octicons.eot
+ create mode 100755 _site/css/octicons.svg
+ create mode 100755 _site/css/octicons.ttf
+ create mode 100755 _site/css/octicons.woff
+ create mode 100644 _site/css/syntax/emacs.css
+ create mode 100644 _site/css/syntax/github.css
+ create mode 100644 _site/css/syntax/monokai.css
+ create mode 100644 _site/css/syntax/native.css
+ create mode 100644 _site/css/syntax/syntax.css
+ create mode 100644 _site/css/syntax/vim.css
+ create mode 100644 _site/css/white-paper.add.css
+ create mode 100644 _site/css/white-paper.add.rtl.css
+ create mode 100644 _site/detailview.png
+ create mode 100644 _site/fonts/FontAwesome.otf
+ create mode 100644 _site/fonts/fontawesome-webfont.eot
+ create mode 100644 _site/fonts/fontawesome-webfont.svg
+ create mode 100644 _site/fonts/fontawesome-webfont.ttf
+ create mode 100644 _site/fonts/fontawesome-webfont.woff
+ create mode 100644 _site/fonts/fontawesome-webfont.woff2
+ create mode 100644 _site/git-push.log
+ create mode 100644 _site/gruntfile.js
+ create mode 100644 _site/index.html
+ create mode 100644 _site/js/ga.js
+ create mode 100644 _site/listview.png
+ create mode 100644 _site/package-lock.json
+ create mode 100644 _site/package.json
+ create mode 100755 _site/push
