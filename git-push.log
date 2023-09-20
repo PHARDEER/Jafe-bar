@@ -41,3 +41,8 @@
  delete mode 100644 public/tags/index.xml
  delete mode 100755 push
  delete mode 160000 themes/terminal
+[master 7417108] Update
+ 5 files changed, 102 insertions(+), 2 deletions(-)
+ create mode 100644 _site/git-push.log
+ create mode 100755 _site/push
+ create mode 100755 push
