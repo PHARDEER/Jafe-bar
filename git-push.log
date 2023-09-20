@@ -127,3 +127,16 @@
  create mode 100644 _site/Gemfile.lock
 [master 4d02a27] Update
  3 files changed, 14 insertions(+), 2 deletions(-)
+[master 40fc8f9] Update
+ 15 files changed, 831 insertions(+), 249 deletions(-)
+ create mode 100644 _data/i18n.yml
+ create mode 100644 _data/navigation.yml
+ create mode 100644 _site/archives/index.html
+ rewrite _site/feed.xml (100%)
+ rewrite _site/index.html (100%)
+ create mode 100644 _site/robots.txt
+ rewrite about.md (91%)
+ create mode 100644 archives.md
+ rewrite feed.xml (99%)
+ rewrite index.html (98%)
+ create mode 100644 robots.txt
